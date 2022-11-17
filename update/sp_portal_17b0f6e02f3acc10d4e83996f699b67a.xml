@@ -2,6 +2,9 @@
     <sp_portal action="INSERT_OR_UPDATE">
         <css_variables/>
         <default>false</default>
+        <enable_ais>false</enable_ais>
+        <enable_favorites>false</enable_favorites>
+        <hide_portal_name>false</hide_portal_name>
         <homepage/>
         <icon/>
         <kb_knowledge_base/>
@@ -13,9 +16,10 @@
         <sc_catalog/>
         <sc_catalog_page/>
         <sc_category_page/>
+        <search_application/>
+        <search_results_configuration/>
         <sp_chat_queue/>
         <sp_rectangle_menu/>
-        <sqanda_knowledge_base/>
         <sys_class_name>sp_portal</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-02-03 06:01:04</sys_created_on>
@@ -32,6 +36,7 @@
         <title>Machine Learning Portal</title>
         <ts_index_group/>
         <url_suffix>machine_learning</url_suffix>
+        <x_snc_devtools_active>false</x_snc_devtools_active>
     </sp_portal>
     <sys_translated_text action="delete_multiple" query="documentkey=17b0f6e02f3acc10d4e83996f699b67a"/>
 </record_update>

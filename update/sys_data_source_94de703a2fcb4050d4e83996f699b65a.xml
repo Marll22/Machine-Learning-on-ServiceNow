@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_source">
     <sys_data_source action="INSERT_OR_UPDATE">
+        <batch_size/>
         <category/>
+        <connection_alias/>
+        <connection_override_last_success_time/>
         <connection_timeout>0</connection_timeout>
         <connection_url>attachment://sys_data_source:94de703a2fcb4050d4e83996f699b65a/cars.xlsx</connection_url>
         <connection_url_parameters/>
         <csv_delimiter/>
         <data_in_single_column>false</data_in_single_column>
         <data_loader/>
+        <data_stream_action/>
+        <data_stream_action_inputs/>
+        <data_stream_connection_alias/>
         <database_name/>
         <database_port/>
         <discard_arrays>true</discard_arrays>
@@ -63,9 +69,11 @@
         <sys_updated_on>2020-02-22 07:44:34</sys_updated_on>
         <table_name/>
         <type>File</type>
+        <use_batch_import>false</use_batch_import>
         <use_integrated_authentication>false</use_integrated_authentication>
         <use_last_run_datetime>false</use_last_run_datetime>
         <xpath_root_node/>
         <zipped>false</zipped>
     </sys_data_source>
+    <sys_variable_value action="delete_multiple" query="document_key=94de703a2fcb4050d4e83996f699b65a"/>
 </record_update>

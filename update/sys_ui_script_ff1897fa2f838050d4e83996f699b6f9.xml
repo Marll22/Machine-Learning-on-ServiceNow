@@ -3,6 +3,7 @@
         <active>true</active>
         <description/>
         <global>false</global>
+        <ignore_in_now_experience>false</ignore_in_now_experience>
         <name>x_248338_machine_l.logistic-regression.j</name>
         <script><![CDATA[ /*jshint esnext: true */ 
 class LogisticRegression {

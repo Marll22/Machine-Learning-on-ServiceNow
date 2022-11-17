@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="Imp Tmpl X 248338 Machine L Cars" max_length="40" name="u_imp_tmpl_x_248338_machine_l_cars" type="collection">
+    <element db_object_id="cf15c9e497931110df6f38271153afb0" extends="sys_import_set_row" label="Imp Tmpl X 248338 Machine L Cars" max_length="40" name="u_imp_tmpl_x_248338_machine_l_cars" type="collection">
         <element attributes="import_attribute_name=acceleration" label="acceleration" max_length="38" name="u_acceleration" type="decimal"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=carname" label="carname" max_length="40" name="u_carname" type="string"/>
         <element attributes="import_attribute_name=cylinders" label="cylinders" max_length="40" name="u_cylinders" type="integer"/>

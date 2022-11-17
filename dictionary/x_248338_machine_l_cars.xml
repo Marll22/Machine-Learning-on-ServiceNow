@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="cars" max_length="40" name="x_248338_machine_l_cars" type="collection">
+    <element db_object_id="c715c9e497931110df6f38271153af95" extends="sys_import_set_row" label="cars" max_length="40" name="x_248338_machine_l_cars" type="collection">
         <element attributes="edge_encryption_enabled=true,import_attribute_name=acceleration" label="acceleration" max_length="40" name="u_acceleration" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=carname" label="carname" max_length="40" name="u_carname" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=cylinders" label="cylinders" max_length="40" name="u_cylinders" type="string"/>
